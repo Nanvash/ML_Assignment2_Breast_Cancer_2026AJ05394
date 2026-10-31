@@ -10,7 +10,7 @@ GitHub:
 https://github.com/Nanvash/ML_Assignment2_Breast_Cancer_2026AJ05394
 
 Streamlit:
-https://mlassignment2breastcancer2026aj05394-7gvstkwpm5kjpf26aaapdr.streamlit.app/
+https://mlassignment2breastcancer2026aj05394-7fodhtpvnaat6ozqpmwp5u.streamlit.app/
 
 Dataset: Breast Cancer Wisconsin (Diagnostic)
 
